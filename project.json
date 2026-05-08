@@ -1,0 +1,21 @@
+{
+  "overview": "A LeBron James showcase website featuring a 60-second career documentary video and a curated set of career facts, achievements, and a visual timeline of his journey through each NBA team.",
+  "features": [
+    "60-second career documentary video player",
+    "Career facts grid with stats and achievements",
+    "Visual team timeline (Cavaliers, Heat, Lakers)",
+    "Hero section with call-to-action",
+    "Responsive design for mobile and desktop"
+  ],
+  "category": "showcase",
+  "tags": [
+    "lebron",
+    "nba",
+    "basketball",
+    "sports",
+    "documentary",
+    "career",
+    "facts"
+  ],
+  "last_updated": "2026-05-08T12:48:48.846Z"
+}
